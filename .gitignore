@@ -1,7 +1,36 @@
+
+# Java compiled files
 *.class
+
+# IntelliJ IDEA
 .idea/
 *.iml
+
+# Build output directories
 out/
+target/
+build/
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# VS Code workspace settings
 .vscode/
+
+# Temporary and log files
+*.log
+*.tmp
+*.bak
+
+# OS generated files
 .DS_Store
 Thumbs.db
+desktop.ini
+
+# Generated practical output and test data
+PRC11/students.dat
+PRC11/folder-report.txt
+PRC11/logs/
+PRC11/sample-folder/
